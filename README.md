@@ -73,8 +73,8 @@ This project is inspired by real-world challenges faced in the ride-hailing indu
 
 ## 🧮 SQL Visuals
 
-| Query Output | Description |
-|----------------|-------------|
+| Query Output | 
+|----------------|
 | ![SQL Visual 1](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/1.jpg?raw=true) 
 | ![SQL Visual 2](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/10.jpg?raw=true) 
 
