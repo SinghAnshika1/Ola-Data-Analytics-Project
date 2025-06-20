@@ -64,8 +64,8 @@ This project is inspired by real-world challenges faced in the ride-hailing indu
 
 ## 📈 Power BI Visuals
 
-| Dashboard View | Description |
-|----------------|-------------|
+| Dashboard View |
+|----------------|
 | ![Dashboard 1](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/Slide1.PNG?raw=true) 
 | ![Dashboard 2](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/Slide3.PNG?raw=true) 
 
@@ -82,9 +82,9 @@ This project is inspired by real-world challenges faced in the ride-hailing indu
 
 ## 📥 Report Download
 
-📄 [Download Power BI Report (PDF)](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/ola.pdf?raw=true)
+📄 [Download Power BI Report (PDF)](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/ola.pdf)
 
-📄 [Download SQL Report (PDF)](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/SQL%20Questions%20%26%20Answers%20Create%20Database%20Ola%3B%20Use%20Ola%3B.pdf?raw=true)
+📄 [Download SQL Report (PDF)](https://github.com/SinghAnshika1/Ola-Data-Analytics-Project/blob/main/SQL%20Questions%20%26%20Answers%20Create%20Database%20Ola%3B%20Use%20Ola%3B.pdf)
 
 ---
 
